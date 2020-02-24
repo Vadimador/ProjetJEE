@@ -1,0 +1,44 @@
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-02-24 17:19:09.69 CET</date>
+	<endDate>2020-02-24 17:19:09.69 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-02-24 17:19:09.116 CET</date>
+	<endDate>2020-02-24 17:19:09.116 CET</endDate>
+	<originId>org.eclipse.ui.internal.introview</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-02-24 17:19:09.117 CET</date>
+	<endDate>2020-02-24 17:19:09.117 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-02-24 17:19:15.723 CET</date>
+	<endDate>2020-02-24 17:19:15.723 CET</endDate>
+	<originId>org.eclipse.ui.actions.NewWizardMenu</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
